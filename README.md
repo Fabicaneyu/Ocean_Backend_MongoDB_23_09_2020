@@ -24,11 +24,13 @@ Realizada aplicação no VSCODE
 
 
 
-## Libs Node.js 
+## Libs Node.js (NPM)
 
 - Express
 
 - Body-parser
+
+- mongodb 
 
 ## MongoDB Local e Remoto
 
