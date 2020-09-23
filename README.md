@@ -1,5 +1,4 @@
-# Ocean_Backend_MongoDB_23_09_2020
-# Sansung Ocean - Introdução ao Backend com NodeJs e Express
+# Sansung Ocean - Trilha Back-end com NodeJs e Express e Laboratório de Banco de Dados com MongoDB
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
@@ -15,13 +14,15 @@ TÓPICOS ABORDADOS:
 
 - Computação na Nuvem
 
+- BD: Mongo DB
+
 ## Aplicação 
 
-Realizada aplicação no VSCODE com deploy no Heroku 
+Realizada aplicação no VSCODE 
 
 ## Deploy
 
-https://ocean-backend-fabi-22092020.herokuapp.com/
+
 
 ## Libs Node.js
 
@@ -29,10 +30,7 @@ https://ocean-backend-fabi-22092020.herokuapp.com/
 
 - Body-parser
 
-## Teste - Postman Local 
+## Introdução a BD 
 
-![imagem que ilustra o teste GET no postman aplicação local.](https://github.com/Fabicaneyu/Ocean_Backend_21_09_2020/blob/master/Postman/get_local.PNG)
+![introdução a BD ](https://github.com/Fabicaneyu/Ocean_Backend_MongoDB_23_09_2020/blob/master/dbs/dbs.PNG)
 
-## Teste - Postman Heroku 
-
-![imagem que ilustra o teste GET no postman feito a partir do deploy no heroku.](https://github.com/Fabicaneyu/Ocean_Backend_21_09_2020/blob/master/Postman/get_heroku.PNG)
