@@ -37,11 +37,10 @@ Realizada aplicação no VSCODE
 ## SQL
 
 SQL - Structured Query Language
-
 Query -> Escreve um comando que vai realizar uma consulta no banco de dados
 
-Tabelas
-
+**Tabelas**
+<p>
 Tabela: participantes
 id: 1
 nome: João
@@ -81,3 +80,4 @@ OneToOne
 OneToMany
 ManyToMany
 ManyToOne
+</p>
