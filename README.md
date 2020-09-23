@@ -24,11 +24,19 @@ Realizada aplicação no VSCODE
 
 
 
-## Libs Node.js
+## Libs Node.js 
 
 - Express
 
 - Body-parser
+
+## MongoDB Local e Remoto
+
+- MongoDB Compass
+
+- NoSQLBooster
+
+- Atlas MongoDB
 
 ## Introdução a BD 
 
