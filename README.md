@@ -89,3 +89,39 @@ OneToMany
 ManyToMany
 ManyToOne
 </p>
+
+## CRUD
+
+Create -> insert(objeto a ser inserido)
+Read (Read All e Read Single)
+Read All -> Find(objeto vazio)
+Read Single -> Find (objeto com o _id que queremos buscar) ou findOne
+Update -> Update
+Delete -> Remove
+
+## Comandos
+
+// Read All
+db.mensagens.find({});
+
+// Read Single
+db.mensagens.find({
+    _id: ObjectId(" ")
+});
+
+// Create
+db.mensagens.insert({
+	texto: "Olá, Mundo!"
+});
+
+// Update
+db.mensagens.update({
+    _id: ObjectId(" ")
+}, {
+    texto: "Olá, Paulo Salvatore! Texto alterado"
+});
+
+// Delete
+db.mensagens.remove({
+    _id: ObjectId(" ")
+});
